@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Only kept for hysterical raisins.
+
 # Wallet Demo
 
 ## Running the demo
